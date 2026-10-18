@@ -1,4 +1,3 @@
-//Not sure what libraries I'll need for this :D
 #include <iostream>
 
 //Constants used for calculating the voltage and current.
